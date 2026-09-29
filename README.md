@@ -24,6 +24,14 @@ O projeto foi desenvolvido individualmente, com foco na organização modular do
 - Sistema de áudio
 - Gerenciamento de estados e progressão do jogo
 
+### Dependências
+
+- GCC / MinGW
+- PDCurses
+- SDL2
+
+As bibliotecas PDCurses e SDL2 devem ser instaladas separadamente.
+
 ### Contexto acadêmico
 
 Projeto desenvolvido como atividade da graduação em Engenharia de Computação na Universidade Tecnológica Federal do Paraná (UTFPR).
