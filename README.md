@@ -26,11 +26,11 @@ O projeto foi desenvolvido individualmente, com foco na organização modular do
 
 ### Demonstração
 
-![Menu principal](screenshots/menu.png)
+![Tela de Título](screenshots/titlescreen.png)
 
 ![Gameplay](screenshots/gameplay.png)
 
-![EvilKing](screenshots/evil.png)
+![Evil King](screenshots/evil.png)
 
 ### Dependências
 
